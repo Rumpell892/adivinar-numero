@@ -1,2 +1,2 @@
-# adivinar-numero
-programa que hace un numero aleatorio
+# Prototipo de pagina web solomanete con html
+Prototipo html5
