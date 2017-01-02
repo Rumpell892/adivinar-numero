@@ -1,13 +1,21 @@
 *{
-  background-color: black;
-  color: rgb(244, 070, 017);
+  color: rgb(247, 94, 037);
   font: Georgia;
   line-height: 1.7em;
+  font-weight: bold;
 }
 h1{
   font-size:40px;
   text-align: center;
 }
+p{
+font-size: 18px;
+}
 nav{
   font-size: 25px;
+}
+body{
+  background-image: url(https://images8.alphacoders.com/749/749774.jpg); 
+  background-size: cover;
+
 }
