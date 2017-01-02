@@ -4,7 +4,9 @@
   font: Georgia;
   line-height: 1.7em;
 }
-
+h1{
+  font-size: 36px;
+}
 nav{
   font-size: 25px;
 }
