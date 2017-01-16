@@ -2,14 +2,20 @@
   color: rgb(247, 94, 037);
   font: Georgia;
   line-height: 1.7em;
-  font-weight: bold;
 }
 h1{
   font-size:40px;
   text-align: center;
+  font-weight: bold;
+}
+h2{
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+
 }
 p{
-font-size: 18px;
+font-size: 20px;
 }
 nav{
   font-size: 25px;
@@ -18,4 +24,12 @@ body{
   background-image: url(https://images8.alphacoders.com/749/749774.jpg); 
   background-size: cover;
 
+}
+table {
+  align-content: center;
+  width: 100%;
+ 
+}
+td{
+ border: 1px solid black;
 }
